@@ -1,0 +1,9 @@
+/*!
+ * Base CRM and MailChimp Plugin
+ * http://www.stormgate.co.uk
+ * V1.2.2
+ *
+ * Copyright 2012, Woody Hayday, StormGate Ltd, David Whitehouse
+ *
+ * Date: 24/08/2012
+ */#sgpBody{margin:20px 25px 5px 5px}.sgFieldLabelHD{font-weight:700;font-size:14px;border-bottom:2px solid #dfdfdf;text-align:left;padding:36px 14px 14px}.topHD{padding-top:16px}.sgFieldLabel{text-align:right;padding-right:7px;padding-top:2px}.sgField{padding:6px}.sgFieldOption{padding-top:2px;padding-left:8px;background:#EEE}#sgExclaim{width:40px;float:left;font-size:50px;margin-top:10px}.sgfail{background-color:#C00;border:2px solid #F90;color:#FFF;margin:10px;padding:10px}.sgwarn{background-color:#C00;border:2px solid #F90;color:#FFF;margin:10px;padding:10px}.sgfail a{color:#d7e4ed}.sginfo{background-color:#b5e0fb;border:2px solid #21718b;color:#000;margin:10px;padding:10px}.sgsuccess{background-color:#093;border:2px solid #060;color:#FFF;margin:10px;padding:10px;width:674px}#icon-sg{background:url(../i/icon-32.png) no-repeat}#wpbody-content{min-height:1000px}#sgpHeader{padding:10px}#sgpConfig td{padding-bottom:12px}#sgpDesc{margin:0;padding:10px;padding-bottom:0;padding-top:0}#socialGallery_headerBoxHTML{width:400px;height:130px}#socialGallery_headerImg{width:140px;padding:4px}#socialGallery_bgColor{width:52px;padding:4px}#socialGallery_bgOpacity{width:32px;padding:4px}.sgField span{color:red}#sgpSocial{width:400px;position:absolute;top:18px;left:540px;height:62px;overflow:hidden}#sgpSocial iframe,#sgpSocial a,#sgpSocial div{padding:2px}.pin-it-button{margin-top:-2px}#showcase{width:162px;height:24px;position:absolute;top:4px;left:220px}#disqusDisclaim{color:red}#sgpConfigFields{text-align:center}#sgpConfigFields thead th{padding-bottom:10px}
