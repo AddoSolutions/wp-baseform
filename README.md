@@ -1,4 +1,4 @@
-wp-baseform
+Wordpress BaseCRM / MailChimp Integration
 ===========
 
 Installation:
